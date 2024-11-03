@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UH2 pak aroh/1.0.0": {
+        "runtime": {
+          "UH2 pak aroh.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UH2 pak aroh/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

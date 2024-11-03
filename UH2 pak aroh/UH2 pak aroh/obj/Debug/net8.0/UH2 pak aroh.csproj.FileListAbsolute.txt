@@ -1,0 +1,14 @@
+C:\Users\farre\source\repos\UH2 pak aroh\UH2 pak aroh\bin\Debug\net8.0\UH2 pak aroh.exe
+C:\Users\farre\source\repos\UH2 pak aroh\UH2 pak aroh\bin\Debug\net8.0\UH2 pak aroh.deps.json
+C:\Users\farre\source\repos\UH2 pak aroh\UH2 pak aroh\bin\Debug\net8.0\UH2 pak aroh.runtimeconfig.json
+C:\Users\farre\source\repos\UH2 pak aroh\UH2 pak aroh\bin\Debug\net8.0\UH2 pak aroh.dll
+C:\Users\farre\source\repos\UH2 pak aroh\UH2 pak aroh\bin\Debug\net8.0\UH2 pak aroh.pdb
+C:\Users\farre\source\repos\UH2 pak aroh\UH2 pak aroh\obj\Debug\net8.0\UH2 pak aroh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farre\source\repos\UH2 pak aroh\UH2 pak aroh\obj\Debug\net8.0\UH2 pak aroh.AssemblyInfoInputs.cache
+C:\Users\farre\source\repos\UH2 pak aroh\UH2 pak aroh\obj\Debug\net8.0\UH2 pak aroh.AssemblyInfo.cs
+C:\Users\farre\source\repos\UH2 pak aroh\UH2 pak aroh\obj\Debug\net8.0\UH2 pak aroh.csproj.CoreCompileInputs.cache
+C:\Users\farre\source\repos\UH2 pak aroh\UH2 pak aroh\obj\Debug\net8.0\UH2 pak aroh.dll
+C:\Users\farre\source\repos\UH2 pak aroh\UH2 pak aroh\obj\Debug\net8.0\refint\UH2 pak aroh.dll
+C:\Users\farre\source\repos\UH2 pak aroh\UH2 pak aroh\obj\Debug\net8.0\UH2 pak aroh.pdb
+C:\Users\farre\source\repos\UH2 pak aroh\UH2 pak aroh\obj\Debug\net8.0\UH2 pak aroh.genruntimeconfig.cache
+C:\Users\farre\source\repos\UH2 pak aroh\UH2 pak aroh\obj\Debug\net8.0\ref\UH2 pak aroh.dll
